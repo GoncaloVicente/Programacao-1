@@ -1,0 +1,289 @@
+# depslib dependency file v1.0
+1511654841 source:c:\users\silva\desktop\ipl\p1\projeto2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1511655436 source:c:\users\silva\desktop\ipl\p1\projeto2017\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1511655424 c:\users\silva\desktop\ipl\p1\projeto2017\funcoesauxiliares.h
+
+1511655999 source:c:\users\silva\desktop\ipl\p1\projeto2017\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1511654920 c:\users\silva\desktop\ipl\p1\projeto2017\funcoesmenus.h
+
+1513456064 source:c:\users\gonçalo vicente\desktop\projeto2017\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1513269804 c:\users\gonçalo vicente\desktop\projeto2017\funcoesauxiliares.h
+
+1513724694 source:c:\users\gonçalo vicente\desktop\projeto2017\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1513560984 c:\users\gonçalo vicente\desktop\projeto2017\funcoesmenus.h
+	"estruturas.h"
+
+1513727132 source:c:\users\gonçalo vicente\desktop\projeto2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+	"ficheiros.h"
+	"estruturas.h"
+	"funcoesEstatistica.h"
+
+1513110818 source:c:\users\gonçalo vicente\desktop\projeto2017\estruturas.c
+
+1513110817 source:c:\users\silva\desktop\p1-projeto\projeto2017\estruturas.c
+
+1513456063 source:c:\users\silva\desktop\p1-projeto\projeto2017\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1513269803 c:\users\silva\desktop\p1-projeto\projeto2017\funcoesauxiliares.h
+
+1513188518 source:c:\users\silva\desktop\p1-projeto\projeto2017\ficheiros.c
+	<stdio.h>
+	"ficheiros.h"
+	"estruturas.h"
+
+1513188469 c:\users\silva\desktop\p1-projeto\projeto2017\ficheiros.h
+	"funcoesMenus.h"
+	"estruturas.h"
+
+1513560983 c:\users\silva\desktop\p1-projeto\projeto2017\funcoesmenus.h
+	"estruturas.h"
+
+1513721861 c:\users\silva\desktop\p1-projeto\projeto2017\estruturas.h
+
+1513615398 source:c:\users\silva\desktop\p1-projeto\projeto2017\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1513722606 source:c:\users\silva\desktop\p1-projeto\projeto2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+	"ficheiros.h"
+	"estruturas.h"
+	"funcoesEstatistica.h"
+
+1513718376 source:c:\users\silva\desktop\p1-projeto\projeto2017\funcoesestatistica.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+	"funcoesEstatistica.h"
+	"estruturas.h"
+
+1513709072 c:\users\silva\desktop\p1-projeto\projeto2017\funcoesestatistica.h
+	"funcoesEstatistica.h"
+	"estruturas.h"
+
+1513110818 source:c:\users\gonçalo vicente\desktop\p1-projeto\projeto2017\estruturas.c
+
+1513188520 source:c:\users\gonçalo vicente\desktop\p1-projeto\projeto2017\ficheiros.c
+	<stdio.h>
+	"ficheiros.h"
+	"estruturas.h"
+
+1513188470 c:\users\gonçalo vicente\desktop\p1-projeto\projeto2017\ficheiros.h
+	"funcoesMenus.h"
+	"estruturas.h"
+
+1513560984 c:\users\gonçalo vicente\desktop\p1-projeto\projeto2017\funcoesmenus.h
+	"estruturas.h"
+
+1513723390 c:\users\gonçalo vicente\desktop\p1-projeto\projeto2017\estruturas.h
+
+1513456064 source:c:\users\gonçalo vicente\desktop\p1-projeto\projeto2017\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1513269804 c:\users\gonçalo vicente\desktop\p1-projeto\projeto2017\funcoesauxiliares.h
+
+1513718378 source:c:\users\gonçalo vicente\desktop\p1-projeto\projeto2017\funcoesestatistica.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+	"funcoesEstatistica.h"
+	"estruturas.h"
+
+1513709074 c:\users\gonçalo vicente\desktop\p1-projeto\projeto2017\funcoesestatistica.h
+	"funcoesEstatistica.h"
+	"estruturas.h"
+
+1513723506 source:c:\users\gonçalo vicente\desktop\p1-projeto\projeto2017\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1513724194 source:c:\users\gonçalo vicente\desktop\p1-projeto\projeto2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+	"ficheiros.h"
+	"estruturas.h"
+	"funcoesEstatistica.h"
+
+1513110818 source:c:\users\silva\music\p1-projeto\projeto2017\estruturas.c
+
+1513188520 source:c:\users\silva\music\p1-projeto\projeto2017\ficheiros.c
+	<stdio.h>
+	"ficheiros.h"
+	"estruturas.h"
+
+1513188470 c:\users\silva\music\p1-projeto\projeto2017\ficheiros.h
+	"funcoesMenus.h"
+	"estruturas.h"
+
+1513560984 c:\users\silva\music\p1-projeto\projeto2017\funcoesmenus.h
+	"estruturas.h"
+
+1513723390 c:\users\silva\music\p1-projeto\projeto2017\estruturas.h
+
+1513456064 source:c:\users\silva\music\p1-projeto\projeto2017\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1513269804 c:\users\silva\music\p1-projeto\projeto2017\funcoesauxiliares.h
+
+1513718378 source:c:\users\silva\music\p1-projeto\projeto2017\funcoesestatistica.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+	"funcoesEstatistica.h"
+	"estruturas.h"
+
+1513709074 c:\users\silva\music\p1-projeto\projeto2017\funcoesestatistica.h
+	"funcoesEstatistica.h"
+	"estruturas.h"
+
+1513724693 source:c:\users\silva\music\p1-projeto\projeto2017\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1513726430 source:c:\users\silva\music\p1-projeto\projeto2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+	"ficheiros.h"
+	"estruturas.h"
+	"funcoesEstatistica.h"
+
+1513188520 source:c:\users\gonçalo vicente\desktop\projeto2017\ficheiros.c
+	<stdio.h>
+	"ficheiros.h"
+	"estruturas.h"
+
+1513188470 c:\users\gonçalo vicente\desktop\projeto2017\ficheiros.h
+	"funcoesMenus.h"
+	"estruturas.h"
+
+1513723392 c:\users\gonçalo vicente\desktop\projeto2017\estruturas.h
+
+1513727132 source:c:\users\gonçalo vicente\desktop\projeto2017\funcoesestatistica.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+	"funcoesEstatistica.h"
+	"estruturas.h"
+
+1513709074 c:\users\gonçalo vicente\desktop\projeto2017\funcoesestatistica.h
+	"funcoesEstatistica.h"
+	"estruturas.h"
+
+1513114418 source:c:\users\gonçalo vicente\desktop\gonçalo\engenharia informática\programação 1\projeto_goncalovicente_tiagosilva_g10\projeto_goncalovicente_tiagosilva\estruturas.c
+
+1513192120 source:c:\users\gonçalo vicente\desktop\gonçalo\engenharia informática\programação 1\projeto_goncalovicente_tiagosilva_g10\projeto_goncalovicente_tiagosilva\ficheiros.c
+	<stdio.h>
+	"ficheiros.h"
+	"estruturas.h"
+
+1513192070 c:\users\gonçalo vicente\desktop\gonçalo\engenharia informática\programação 1\projeto_goncalovicente_tiagosilva_g10\projeto_goncalovicente_tiagosilva\ficheiros.h
+	"funcoesMenus.h"
+	"estruturas.h"
+
+1513564584 c:\users\gonçalo vicente\desktop\gonçalo\engenharia informática\programação 1\projeto_goncalovicente_tiagosilva_g10\projeto_goncalovicente_tiagosilva\funcoesmenus.h
+	"estruturas.h"
+
+1513726992 c:\users\gonçalo vicente\desktop\gonçalo\engenharia informática\programação 1\projeto_goncalovicente_tiagosilva_g10\projeto_goncalovicente_tiagosilva\estruturas.h
+
+1513459664 source:c:\users\gonçalo vicente\desktop\gonçalo\engenharia informática\programação 1\projeto_goncalovicente_tiagosilva_g10\projeto_goncalovicente_tiagosilva\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1513273404 c:\users\gonçalo vicente\desktop\gonçalo\engenharia informática\programação 1\projeto_goncalovicente_tiagosilva_g10\projeto_goncalovicente_tiagosilva\funcoesauxiliares.h
+
+1513730732 source:c:\users\gonçalo vicente\desktop\gonçalo\engenharia informática\programação 1\projeto_goncalovicente_tiagosilva_g10\projeto_goncalovicente_tiagosilva\funcoesestatistica.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+	"funcoesEstatistica.h"
+	"estruturas.h"
+
+1513712674 c:\users\gonçalo vicente\desktop\gonçalo\engenharia informática\programação 1\projeto_goncalovicente_tiagosilva_g10\projeto_goncalovicente_tiagosilva\funcoesestatistica.h
+	"funcoesEstatistica.h"
+	"estruturas.h"
+
+1513731200 source:c:\users\gonçalo vicente\desktop\gonçalo\engenharia informática\programação 1\projeto_goncalovicente_tiagosilva_g10\projeto_goncalovicente_tiagosilva\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1513731200 source:c:\users\gonçalo vicente\desktop\gonçalo\engenharia informática\programação 1\projeto_goncalovicente_tiagosilva_g10\projeto_goncalovicente_tiagosilva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+	"ficheiros.h"
+	"estruturas.h"
+	"funcoesEstatistica.h"
+

@@ -1,0 +1,8 @@
+Numero de registo: 1
+Estado: Devolvida
+Destino: 6
+Data registo encomenda: 20/12/2017
+-------------------------------------------
+
+
+Porque de ser devolvida?: 262
